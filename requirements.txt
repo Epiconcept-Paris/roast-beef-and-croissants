@@ -1,0 +1,13 @@
+jupyterlab
+transformers
+OpenAI
+sentence-transformers
+lxml
+beautifulsoup4
+lxml
+xlsxwriter
+pydantic
+pandas
+tqdm
+openpyxl
+
