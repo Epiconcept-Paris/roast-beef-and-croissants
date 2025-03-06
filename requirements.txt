@@ -10,4 +10,7 @@ pydantic
 pandas
 tqdm
 openpyxl
-
+sentencepiece
+accelerate
+datasets
+protobuf
